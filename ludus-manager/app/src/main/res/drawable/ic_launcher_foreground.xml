@@ -1,0 +1,88 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Roman Laurel Wreath Left -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M32,46 C30,42 27,45 28,49 C29,53 33,52 33,48 Z" />
+    <path
+        android:fillColor="#FFC72C"
+        android:pathData="M29,54 C26,51 24,55 26,58 C28,62 32,60 31,56 Z" />
+    <path
+        android:fillColor="#E6A100"
+        android:pathData="M33,63 C30,62 29,66 32,69 C35,72 38,68 36,65 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M40,71 C38,72 39,76 43,77 C47,78 48,74 44,72 Z" />
+
+    <!-- Golden Roman Laurel Wreath Right -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M76,46 C78,42 81,45 80,49 C79,53 75,52 75,48 Z" />
+    <path
+        android:fillColor="#FFC72C"
+        android:pathData="M79,54 C82,51 84,55 82,58 C80,62 76,60 77,56 Z" />
+    <path
+        android:fillColor="#E6A100"
+        android:pathData="M75,63 C78,62 79,66 76,69 C73,72 70,68 72,65 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M68,71 C70,72 69,76 65,77 C61,78 60,74 64,72 Z" />
+
+    <!-- Crossed Gladius Swords -->
+    <!-- Sword 1 (top-left to bottom-right) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M35,33 L71,69 L67,73 L31,37 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M31,37 L29,29 L37,31 Z" />
+    <!-- Sword 1 Guard and Hilt -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M64,66 L74,76 L72,78 L62,68 Z" />
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M72,74 L78,80 L76,82 L70,76 Z" />
+    <!-- Pommel 1 -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M76,83 A3,3 0 1,0 82,83 A3,3 0 1,0 76,83 Z" />
+
+    <!-- Sword 2 (top-right to bottom-left) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M73,33 L37,69 L41,73 L77,37 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M77,37 L79,29 L71,31 Z" />
+    <!-- Sword 2 Guard and Hilt -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M44,66 L34,76 L36,78 L46,68 Z" />
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M36,74 L30,80 L32,82 L38,76 Z" />
+    <!-- Pommel 2 -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M26,83 A3,3 0 1,0 32,83 A3,3 0 1,0 26,83 Z" />
+
+    <!-- Center Roman Scutum Boss / Imperial Eagle Crest -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M42,52 A12,12 0 1,0 66,52 A12,12 0 1,0 42,52 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M45,52 A9,9 0 1,0 63,52 A9,9 0 1,0 45,52 Z" />
+
+    <!-- SPQR Roman Banner text representation -->
+    <path
+        android:fillColor="#991B1B"
+        android:pathData="M42,24 L66,24 L64,30 L44,30 Z" />
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M45,26 L63,26 L62,28 L46,28 Z" />
+</vector>

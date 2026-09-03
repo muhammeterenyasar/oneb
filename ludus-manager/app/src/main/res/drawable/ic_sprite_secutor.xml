@@ -1,0 +1,80 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Ground Shadow -->
+    <path
+        android:fillColor="#331A120B"
+        android:pathData="M34,120 A30,8 0 1,0 94,120 A30,8 0 1,0 34,120 Z" />
+
+    <!-- Legs & Greaves -->
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M50,92 L54,116 L46,117 L44,94 Z" />
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M46,102 L54,102 L53,116 L45,116 Z" />
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M70,92 L74,116 L66,117 L64,94 Z" />
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M66,102 L74,102 L73,116 L65,116 Z" />
+
+    <!-- Subligaculum & Balteus -->
+    <path
+        android:fillColor="#5C1D24"
+        android:pathData="M42,76 L86,76 L82,94 L46,94 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M42,75 L86,75 L86,79 L42,79 Z" />
+
+    <!-- Muscular Torso with Leather Shoulder Guard -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M46,48 L82,48 L84,76 L44,76 Z" />
+    <path
+        android:fillColor="#B07030"
+        android:pathData="M63,52 L65,52 L65,74 L63,74 Z" />
+
+    <!-- Gladius Sword in Right Hand -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M24,42 L28,40 L34,70 L30,72 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M22,70 L36,68 L35,74 L21,76 Z" />
+    <path
+        android:fillColor="#5A3E26"
+        android:pathData="M27,73 L31,72 L29,82 L25,83 Z" />
+
+    <!-- Large Curved Scutum Shield -->
+    <path
+        android:fillColor="#5C1D24"
+        android:pathData="M76,46 L108,46 L104,104 L72,104 Z" />
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2"
+        android:pathData="M78,48 L106,48 L102,102 L74,102 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M84,74 A7,7 0 1,0 98,74 A7,7 0 1,0 84,74 Z" />
+
+    <!-- Secutor's Iconic Smooth Round Egg Helmet (Designed not to snag nets) -->
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M52,14 Q64,10 76,14 L80,46 L48,46 Z" />
+    <!-- Narrow Smooth Fin / Low Spine on Helmet -->
+    <path
+        android:fillColor="#A8823B"
+        android:pathData="M62,12 L66,12 L66,30 L62,30 Z" />
+    <!-- Two Small Round Eye Openings -->
+    <path
+        android:fillColor="#150E0A"
+        android:pathData="M56,32 A4,4 0 1,0 64,32 A4,4 0 1,0 56,32 Z" />
+    <path
+        android:fillColor="#150E0A"
+        android:pathData="M66,32 A4,4 0 1,0 74,32 A4,4 0 1,0 66,32 Z" />
+</vector>

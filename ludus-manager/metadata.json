@@ -1,0 +1,7 @@
+{
+  "name": "Ludus Manager",
+  "description": "Ancient Rome gladiator ludus management simulation with tactical real-time combat, deep roster contracts, training, politics, and Colosseum progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,130 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Ground Shadow -->
+    <path
+        android:fillColor="#331A120B"
+        android:pathData="M32,120 A32,8 0 1,0 96,120 A32,8 0 1,0 32,120 Z" />
+
+    <!-- Agile Legs (Bare with Sandal Straps) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M48,84 L52,116 L44,117 L42,86 Z" />
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="1.5"
+        android:pathData="M42,94 L50,98 M50,102 L44,106 M44,110 L52,114" />
+
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M68,84 L72,116 L64,117 L62,86 Z" />
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="1.5"
+        android:pathData="M62,94 L70,98 M70,102 L64,106 M64,110 L72,114" />
+
+    <!-- Subligaculum (Loincloth) with Bronze Buckle -->
+    <path
+        android:fillColor="#2D6A4F"
+        android:pathData="M40,74 L84,74 L80,90 L44,90 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,73 L84,73 L84,77 L40,77 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,73 L64,73 L64,77 L60,77 Z" />
+
+    <!-- Bare Muscular Torso (Retiarius fought unarmored to maximize speed) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M46,46 L82,46 L84,74 L44,74 Z" />
+    <!-- Chest Muscle Shadows -->
+    <path
+        android:fillColor="#B07030"
+        android:pathData="M63,50 L65,50 L65,72 L63,72 Z" />
+    <path
+        android:fillColor="#B07030"
+        android:pathData="M52,58 L76,58 L76,60 L52,60 Z" />
+
+    <!-- Left Arm Guard (Manica) & High Galerus Shoulder Shield -->
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M78,44 L90,56 L86,76 L76,52 Z" />
+    <!-- Bronze Galerus (Flanged Shoulder Guard) extending up beside head -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M78,28 L94,22 L98,50 L78,46 Z" />
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.5"
+        android:pathData="M80,30 L92,26 L96,48 L80,44 Z" />
+
+    <!-- Head (Unhelmeted, athletic headband) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M52,24 L76,24 L74,44 L54,44 Z" />
+    <!-- Dark Curly Hair -->
+    <path
+        android:fillColor="#1F1813"
+        android:pathData="M50,20 Q64,14 78,20 L78,28 L50,28 Z" />
+    <!-- Green/Gold Cloth Headband -->
+    <path
+        android:fillColor="#2D6A4F"
+        android:pathData="M50,27 L78,27 L78,31 L50,31 Z" />
+    <!-- Face Features: Eyes & Jaw -->
+    <path
+        android:fillColor="#1F1813"
+        android:pathData="M56,34 L62,34 L62,36 L56,36 Z" />
+    <path
+        android:fillColor="#1F1813"
+        android:pathData="M66,34 L72,34 L72,36 L66,36 Z" />
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M61,37 L67,37 L64,41 Z" />
+
+    <!-- Right Arm Holding Long Trident (Fuscina) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M44,48 L32,66 L26,62 L38,46 Z" />
+    <!-- Long Wooden Trident Shaft -->
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="3.5"
+        android:pathData="M22,12 L38,118" />
+    <!-- Steel Trident Head with 3 Barbed Prongs -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M16,14 L18,8 L20,16 Z" />
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M21,12 L23,4 L25,14 Z" />
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M26,14 L28,8 L30,16 Z" />
+    <path
+        android:fillColor="#9CA3AF"
+        android:pathData="M16,16 L30,16 L25,22 L21,22 Z" />
+
+    <!-- Left Hand Holding Weighted Net (Rete) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M86,72 A5,5 0 1,0 96,72 A5,5 0 1,0 86,72 Z" />
+    <!-- Woven Net Mesh with Lead Weights -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.2"
+        android:pathData="M88,74 Q106,86 98,112 M92,76 Q112,88 106,110 M96,78 Q118,92 112,108 M88,86 L110,84 M90,96 L112,94 M94,106 L108,106" />
+    <!-- Lead Weights at Edge of Net -->
+    <path
+        android:fillColor="#4B5563"
+        android:pathData="M98,112 A3,3 0 1,0 104,112 A3,3 0 1,0 98,112 Z" />
+    <path
+        android:fillColor="#4B5563"
+        android:pathData="M106,110 A3,3 0 1,0 112,110 A3,3 0 1,0 106,110 Z" />
+    <path
+        android:fillColor="#4B5563"
+        android:pathData="M112,108 A3,3 0 1,0 118,108 A3,3 0 1,0 112,108 Z" />
+</vector>

@@ -1,0 +1,94 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Ground Shadow -->
+    <path
+        android:fillColor="#331A120B"
+        android:pathData="M32,120 A30,8 0 1,0 92,120 A30,8 0 1,0 32,120 Z" />
+
+    <!-- Legs with Raw Leather Wraps (Fasciae) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M48,84 L52,116 L44,117 L42,86 Z" />
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="1.8"
+        android:pathData="M42,90 L52,94 M42,98 L52,102 M42,106 L52,110" />
+
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M70,84 L74,116 L66,117 L64,86 Z" />
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="1.8"
+        android:pathData="M64,90 L74,94 M64,98 L74,102 M64,106 L74,110" />
+
+    <!-- Rough Hide Kilt -->
+    <path
+        android:fillColor="#4A2E18"
+        android:pathData="M40,74 L84,74 L82,90 L44,90 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,73 L84,73 L84,77 L40,77 Z" />
+
+    <!-- Torso with Beast Pelt Sash (Leopard / Lion Pelt across chest) -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M46,46 L82,46 L84,74 L44,74 Z" />
+    <!-- Golden Spotted Pelt across Chest -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M44,46 L62,46 L84,74 L66,74 Z" />
+    <!-- Pelt Spots -->
+    <path
+        android:fillColor="#3A2210"
+        android:pathData="M48,50 A2,2 0 1,0 52,50 A2,2 0 1,0 48,50 Z" />
+    <path
+        android:fillColor="#3A2210"
+        android:pathData="M56,56 A2,2 0 1,0 60,56 A2,2 0 1,0 56,56 Z" />
+    <path
+        android:fillColor="#3A2210"
+        android:pathData="M66,62 A2,2 0 1,0 70,62 A2,2 0 1,0 66,62 Z" />
+    <path
+        android:fillColor="#3A2210"
+        android:pathData="M74,68 A2,2 0 1,0 78,68 A2,2 0 1,0 74,68 Z" />
+
+    <!-- Hunting Spear (Venabulum) with Crossbar -->
+    <path
+        android:strokeColor="#5A3E26"
+        android:strokeWidth="3.5"
+        android:pathData="M24,4 L38,118" />
+    <!-- Steel Spearhead with Lateral Crossbar (to stop charging beasts) -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M24,4 L28,20 L20,20 Z" />
+    <path
+        android:fillColor="#9CA3AF"
+        android:pathData="M16,20 L32,20 L32,24 L16,24 Z" />
+
+    <!-- Left Arm with Leather Whip / Short Dagger -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M80,48 L94,64 L88,68 L76,52 Z" />
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M92,62 L106,62 L100,68 L90,68 Z" />
+
+    <!-- Head with Wolf / Big Cat Hood -->
+    <path
+        android:fillColor="#4A2E18"
+        android:pathData="M48,16 Q64,12 80,16 L84,40 L44,40 Z" />
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M52,24 L76,24 L76,42 L52,42 Z" />
+    <!-- Eyes -->
+    <path
+        android:fillColor="#150E0A"
+        android:pathData="M56,30 L62,30 L62,33 L56,33 Z" />
+    <path
+        android:fillColor="#150E0A"
+        android:pathData="M66,30 L72,30 L72,33 L66,33 Z" />
+</vector>

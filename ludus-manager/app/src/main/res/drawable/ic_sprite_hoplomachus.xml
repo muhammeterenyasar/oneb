@@ -1,0 +1,83 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Ground Shadow -->
+    <path
+        android:fillColor="#331A120B"
+        android:pathData="M32,120 A30,8 0 1,0 92,120 A30,8 0 1,0 32,120 Z" />
+
+    <!-- Legs & High Bronze Greaves -->
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M48,82 L52,116 L44,117 L42,84 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M43,88 L53,88 L52,116 L44,116 Z" />
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M70,82 L74,116 L66,117 L64,84 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M65,88 L75,88 L74,116 L66,116 Z" />
+
+    <!-- Loincloth with Bronze Studs -->
+    <path
+        android:fillColor="#2B3A42"
+        android:pathData="M42,74 L84,74 L80,92 L44,92 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M42,73 L84,73 L84,77 L42,77 Z" />
+
+    <!-- Torso -->
+    <path
+        android:fillColor="#C68642"
+        android:pathData="M46,46 L80,46 L82,74 L44,74 Z" />
+
+    <!-- Hasta Spear in Right Hand -->
+    <path
+        android:fillColor="#784E3A"
+        android:pathData="M24,4 L28,4 L28,118 L24,118 Z" />
+    <!-- Spearhead Blade -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M22,20 L26,2 L30,20 L26,24 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M23,20 L29,20 L28,24 L24,24 Z" />
+
+    <!-- Round Bronze Shield (Aspis / Parma) on Left Arm -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M80,46 A22,22 0 1,0 124,46 A22,22 0 1,0 80,46 Z" />
+    <path
+        android:strokeColor="#784E3A"
+        android:strokeWidth="2.5"
+        android:pathData="M83,46 A19,19 0 1,0 121,46 A19,19 0 1,0 83,46 Z" />
+    <!-- Greek Gorgon / Sun Boss in Center -->
+    <path
+        android:fillColor="#9E2A2B"
+        android:pathData="M96,46 A6,6 0 1,0 108,46 A6,6 0 1,0 96,46 Z" />
+
+    <!-- Ornate Bronze Helmet with Upright Feathers -->
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M50,22 L76,22 L80,46 L46,46 Z" />
+    <!-- Upright Feather Plumes -->
+    <path
+        android:fillColor="#9E2A2B"
+        android:pathData="M50,4 L56,22 L46,24 Z" />
+    <path
+        android:fillColor="#9E2A2B"
+        android:pathData="M76,4 L70,22 L80,24 Z" />
+    <!-- Grille Visor -->
+    <path
+        android:fillColor="#1F1813"
+        android:pathData="M54,32 L72,32 L70,44 L56,44 Z" />
+    <path
+        android:strokeColor="#C5A059"
+        android:strokeWidth="1.2"
+        android:pathData="M54,36 L72,36 M54,40 L70,40 M63,32 L63,44" />
+</vector>

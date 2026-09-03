@@ -1,0 +1,95 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Ground Shadow -->
+    <path
+        android:fillColor="#331A120B"
+        android:pathData="M30,120 A34,8 0 1,0 98,120 A34,8 0 1,0 30,120 Z" />
+
+    <!-- Agile Split Stance Legs -->
+    <path
+        android:fillColor="#4A2810"
+        android:pathData="M44,84 L48,116 L40,117 L38,86 Z" />
+    <path
+        android:strokeColor="#C5A059"
+        android:strokeWidth="1.5"
+        android:pathData="M40,94 L48,94 M40,102 L48,102 M40,110 L48,110" />
+
+    <path
+        android:fillColor="#4A2810"
+        android:pathData="M76,84 L82,116 L74,117 L70,86 Z" />
+    <path
+        android:strokeColor="#C5A059"
+        android:strokeWidth="1.5"
+        android:pathData="M72,94 L80,94 M72,102 L80,102 M72,110 L80,110" />
+
+    <!-- Dark Leather Kilt & Gold Studded Belt -->
+    <path
+        android:fillColor="#221711"
+        android:pathData="M38,72 L90,72 L86,90 L42,90 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M38,71 L90,71 L90,75 L38,75 Z" />
+
+    <!-- Leather Cuirass & Cross Straps -->
+    <path
+        android:fillColor="#4A2810"
+        android:pathData="M44,46 L84,46 L86,72 L42,72 Z" />
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2"
+        android:pathData="M46,48 L84,70 M84,48 L46,70" />
+
+    <!-- Dual Vambraces on both arms -->
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M36,52 L26,72 L22,68 L32,48 Z" />
+    <path
+        android:fillColor="#8C6239"
+        android:pathData="M92,52 L102,72 L106,68 L96,48 Z" />
+
+    <!-- Right Hand Blade (Gladius/Sicca) angled forward-up -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M16,30 L20,28 L28,68 L24,70 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M18,68 L30,66 L29,72 L17,74 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M22,78 A3.5,3.5 0 1,0 29,78 A3.5,3.5 0 1,0 22,78 Z" />
+
+    <!-- Left Hand Blade (Gladius/Sicca) angled forward-up -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M112,30 L108,28 L100,68 L104,70 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M110,68 L98,66 L99,72 L111,74 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M99,78 A3.5,3.5 0 1,0 106,78 A3.5,3.5 0 1,0 99,78 Z" />
+
+    <!-- Hooded Helmet with Bronze Face Visor -->
+    <path
+        android:fillColor="#221711"
+        android:pathData="M48,18 L80,18 L84,46 L44,46 Z" />
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M52,24 L76,24 L78,44 L50,44 Z" />
+    <!-- Visor Eye Slits -->
+    <path
+        android:fillColor="#0D0907"
+        android:pathData="M54,32 L62,32 L62,36 L54,36 Z" />
+    <path
+        android:fillColor="#0D0907"
+        android:pathData="M66,32 L74,32 L74,36 L66,36 Z" />
+    <!-- Center Nose Ridge -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.5"
+        android:pathData="M64,26 L64,42" />
+</vector>
